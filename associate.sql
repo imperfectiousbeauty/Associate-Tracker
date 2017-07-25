@@ -79,7 +79,7 @@ ALTER TABLE wk
 /*Employees*/
 INSERT INTO employees(fname, lname) VALUES ('Alyssa', 'Christopher');
 INSERT INTO employees(fname, lname) VALUES ('Jesse', 'Brown');
-INSERT INTO employees(fname, lname) VALUES ('Hiddekel', 'Cantenero');
+INSERT INTO employees(fname, lname) VALUES ('Hiddekel', 'Canterero');
 INSERT INTO employees(fname, lname) VALUES ('Connor', 'Gordon');
 INSERT INTO employees(fname, lname) VALUES ('Trevor', 'Richey');
 INSERT INTO employees(fname, lname) VALUES ('Mason', 'McGinley');
