@@ -105,4 +105,10 @@ INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '8', '37.96');
 /*Week 9*/
 INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('1', '9', '0');
 INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('2', '9', '114.98');
-INSERT INTO `esp`(e_id, w_id, dollars) VALUES (
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('3', '9', '111.95');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('4', '9', '29.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('5', '9', '14.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '9', '29.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '9', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '9', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '9', '0');

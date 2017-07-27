@@ -1,7 +1,15 @@
-﻿/*MySQL database to store information for
- * the c++ program to interpret and display
- * in a web interface.
- */
+﻿/*This file initiates the tables for data storage
+
+ *employees holds only the first and last names of associates.
+ *esp holds a week number, an employee number, and the amount of dollars
+     the employee sold that week
+ *mb holds a week number, an employee number, and the amount of market basket
+     the employee got on a single sale.
+ *yr holds the year, the esp average for the year, and the market basket
+     average for the year
+ *wk holds a week number (id), the year it belongs to, the esp percentage for
+     that week, and the market basket average for that week
+*/
 
 CREATE TABLE employees(
 	e_id int(10) NOT NULL AUTO_INCREMENT,
@@ -31,6 +39,8 @@ CREATE TABLE mb(
 CREATE TABLE yr(
 	y_id int(10) NOT NULL AUTO_INCREMENT,
 	yr int(10),
+     esp_avg float(4),
+     mb_avg float(6),
 	PRIMARY KEY (y_id)
 );
 
@@ -38,6 +48,8 @@ CREATE TABLE yr(
 CREATE TABLE wk(
 	w_id int(10) NOT NULL AUTO_INCREMENT,
 	y_id int(10),
+     esp_prcnt float(4),
+     mb_wk_avg float(6),
 	PRIMARY KEY (w_id)
 );
 
@@ -86,3 +98,4 @@ INSERT INTO employees(fname, lname) VALUES ('Mason', 'McGinley');
 INSERT INTO employees(fname, lname) VALUES ('Regan', 'Carwile');
 INSERT INTO employees(fname, lname) VALUES ('Upper', 'Management');
 INSERT INTO employees(fname, lname) VALUES ('Copy', 'Center');
+INSERT INTO employees(fname, lname) VALUES ('Front', 'End');
