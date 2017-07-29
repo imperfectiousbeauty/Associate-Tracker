@@ -112,3 +112,58 @@ INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '9', '29.99');
 INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '9', '0');
 INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '9', '0');
 INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '9', '0');
+
+/*Week 10*/
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('1', '10', '39.98');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('2', '10', '59.96');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('3', '10', '34.98');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('4', '10', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('5', '10', '34.98');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '10', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '10', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '10', '14.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '10', '124.97');
+
+/*Week 11*/
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('1', '11', '114.96');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('2', '11', '59.98');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('3', '11', '-21.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('4', '11', '29.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('5', '11', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '11', '99.98');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '11', '59.97');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '11', '54.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '11', '0');
+
+/*Week 12*/
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('1', '12', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('2', '12', '129.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('3', '12', '134.95');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('4', '12', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('5', '12', '4.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '12', '9.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '12', '49.97');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '12', '199.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '12', '7.49');
+
+/*Week 13*/
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('1', '13', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('2', '13', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('3', '13', '-40');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('4', '13', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('5', '13', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '13', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '13', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '13', '14.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '13', '44.98');
+
+/*Week 14*/
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('1', '14', '99.96');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('2', '14', '49.96');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('3', '14', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('4', '14', '19.99');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('5', '14', '19.98');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('6', '14', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('7', '14', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('8', '14', '0');
+INSERT INTO `esp`(e_id, w_id, dollars) VALUES ('9', '14', '29.99');
